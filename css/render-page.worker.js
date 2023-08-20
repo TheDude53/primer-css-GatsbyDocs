@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/css/";
+/******/ 	__webpack_require__.p = "/primer-css-GatsbyDocs/css/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports

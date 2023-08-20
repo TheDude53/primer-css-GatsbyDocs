@@ -4,7 +4,7 @@
 
 <h1 align="center">Primer CSS</h1>
 
-<p align="center">The CSS implementation of GitHub's Primer Design System</p>
+<p align="center">The CSS implementation of GitHub's Primer Design System <b>(reverted to pre-Storybook, Gatsby-based documentation)</b></p>
 
 <p align="center">
   <a aria-label="npm package" href="https://www.npmjs.com/package/@primer/css">
@@ -28,7 +28,7 @@
 
 > :warning: **The documentation of this repo is not maintained anymore**. Please raise any documentation-specific pull requests in [primer.style/design](https://github.com/primer/design/) 
 
-Our documentation site lives at [primer.style/css](https://primer.style/css). You'll be able to find detailed documentation on getting started, all of the components, our theme, our principles, and more.
+This fork's documentation site is located at https://thedude53.github.io/primer-css-GatsbyDocs/css. Unlike the current documentation, this fork has been reverted to Gatsby-based documentation before the full switch to Storybook occurred, meaning no component documentation has been lost. You'll be able to find detailed documentation on getting started, all of the components, our theme, our principles, and more.
 
 ## Install
 This repository is distributed with [npm]. After [installing npm][install-npm], you can install `@primer/css` with this command:
